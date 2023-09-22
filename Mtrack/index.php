@@ -1,7 +1,7 @@
 <?php
 //to use names and other variables in welcome page
 session_start();
-//to include data base
+//to include database
 include("db.php");
 ?>
 <!doctype html>
